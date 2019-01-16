@@ -19,4 +19,5 @@ $ su
  - Run the script :
  ```sh
 # sh id_changer.sh
-``` 
+```
+ - Reboot
